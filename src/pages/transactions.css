@@ -1,0 +1,13 @@
+.transactions-cntr{
+    text-align: left;
+    margin:auto;
+}
+.filters{
+    width:25%;
+}
+.transactions{
+    width: 75%;
+}
+.transactions-body{
+    display:flex
+}
